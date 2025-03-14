@@ -3,7 +3,7 @@
 
 {"name":"🍀我的github分支🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/sky/refs/heads/main/pg.json"},
 
-
+{"name":"🔞我的18+🔞","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/jjjzhy/18-/refs/heads/main/wyykFL/wyykFL.json"},
 
 {"name":"网络🔗独钓寒江雪🔗","url":"https://gitee.com/dentist_chen/tvbox/raw/panroda/Interface/CF_V5.json"},
 
