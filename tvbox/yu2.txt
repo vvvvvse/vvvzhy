@@ -6,6 +6,13 @@
 
 
 
+{"name":"🍀潇洒主线路🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/tvbox3/refs/heads/master/xiaosa/api.json"},
+
+{"name":"🍀潇洒/JSM🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/tvbox3/refs/heads/master/jsm.json"},
+{"name":"🍀潇洒/电视🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/tvbox3/refs/heads/master/dianshi.json"},
+{"name":"🍀潇洒/0826🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/tvbox3/refs/heads/master/0826.json"},
+{"name":"🍀潇洒/0821🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/tvbox3/refs/heads/master/0821.json"},
+
 
 
 
