@@ -4,7 +4,7 @@
 { "urls": 
 [
 
-
+{"name":"🍓洪宇🍓正片🔞","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/hy/refs/heads/main/jsm.json"},
 
 {"name":"🍀潇洒主线路🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/tvbox3/refs/heads/master/xiaosa/api.json"},
 
