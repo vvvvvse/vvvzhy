@@ -15,6 +15,7 @@
 {"name":"🔞🍋/18+🔞","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/cluntop.github.io/refs/heads/main/fun.json"},
 {"name":"🇯🇵/18++🇯🇵","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/188/refs/heads/main/PG/jsm-18.json"},
 
+{"name":"🥒/18+🥒","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/yuan18/refs/heads/main/JB/18.json"},
 
 
 
