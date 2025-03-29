@@ -30,7 +30,10 @@
 {"name":"🍀zyt合集6🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/zyt/refs/heads/main/zytxszx.txt"},
 {"name":"🍀zyt合集7🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/zyt/refs/heads/main/zytxszx1.txt"},
 {"name":"🍀zyt合集8🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/zyt/refs/heads/main/zytxszx2.txt"},
-{"name":"🍀zyt合集9🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/zyt/refs/heads/main/zytxszx3.txt"}
+{"name":"🍀zyt合集9🍀","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvvse/zyt/refs/heads/main/zytxszx3.txt"},
+{"name":"网络🔗多线路🔗","url":"https://ghproxy.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/yu.txt"},
+{"name":"网络🍏vvvvvse线路🍏","url":"https://ghproxy.cfd/https:/raw.githubusercontent.com/vvvvvse/vvvzhy/refs/heads/main/tvbox/yu.txt"},
+{"name":"网络🍏vvvvvse线路2🍏","url":"https://ghproxy.cfd/https:/raw.githubusercontent.com/vvvvvse/vvvzhy/refs/heads/main/tvbox/yu2.txt"}
 
 
 ]
